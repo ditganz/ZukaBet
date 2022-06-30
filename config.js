@@ -8,9 +8,9 @@ global.nameowner = 'DittGanz.7'
 global.numberowner = '6281387292249'
 global.instagram = 'https://instagram.com/ditt.storee'
 global.github = 'https://github.com/Hyzerr'
-global.dana = '081398860278'
-global.pulsa = '082138919347'
-global.gopay = '081398860278'
+global.dana = '08567547280'
+global.pulsa = '085899397900'
+global.gopay = '085890397900'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'ShiroBot-Md'
